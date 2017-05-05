@@ -1,5 +1,7 @@
 # Pitch Perfect
 
+Pitch Perfect allows users to create a voice recording then replay recordings with voice effects.
+
 # Requirements
 - Xcode 8.2 or higher
 - iOS 10.2 or higher
